@@ -1,4 +1,4 @@
-### Olá!! Eu souo Lucas
+### Olá!! Eu sou o Lucas
 
 - 🔭 Hoje trabalho com infraestrutura
 - 🌱 Estou estudando para ser um front-end

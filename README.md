@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas
 
-- 🔭 Hoje trabalho com infraestrutura
-- 🌱 Estou estudando para ser um front-end
+- 🔭 Hoje trabalho como Projetista de rede em uma empresa de Telecom.
+- 🌱 Estou estudando para ser um front-end.
 
 <div align="center">
   <a href="https://github.com/lucasvlviana">

@@ -1,8 +1,20 @@
-### Olá!! Eu sou o Lucas
+### Hello, I'm Lucas Viana 🧑‍💻
 
-- 🔭 Hoje trabalho como Projetista de rede em uma empresa de Telecom.
-- 🌱 Desenvolvedor front-end.
+#### About
+I'm a telecommunications designer at Maxxconectado. 🚀
+I'm a web developer and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/). 🚀
 
+#### Current Stack
+- 🌐 Main Language: 'Javascript'
+- ⚡️ Backend: 'Nodejs'
+- 🔥 Frontend: 'ReactJS', 'HTML5', 'CSS3', 'Javascript'
+- ✨ Layout Design: 'Figma'
+- 📦️ Version code control: 'Git & Github'
+- 🔨 Tools: 'VsCode'
+
+#### Contact
+- Email: lucasvitorlv@gmail.com
+- Linkedin: https://www.linkedin.com/in/lucasvitorlv-869b69149/
 
 <div align="center">
   <a href="https://github.com/lucasvlviana">
@@ -15,8 +27,6 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##

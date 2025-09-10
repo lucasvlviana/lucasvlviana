@@ -38,7 +38,7 @@
 ```yaml
 Name: Lucas Viana
 Class: Full Stack Developer
-Location: São Paulo, MG 🇧🇷
+Location: São Paulo, SP 🇧🇷
 Level: 30
 Guild: Computer Science Graduate
 Specialization: JavaScript Wizardry

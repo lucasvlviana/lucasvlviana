@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### `💻 Full Stack Developer | 🧠 Problem Solver | 🌟 Code Craftsman`
+### 💻 Full Stack Developer | 🧠 Problem Solver | 🌟 Code Craftsman
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff41&size=25&center=true&vCenter=true&width=800&lines=console.log(%22Hello%2C+World!%22);const+developer+%3D+new+LucasViana();developer.skills+%3D+%5B%22Node.js%22%2C+%22React%22%2C+%22Innovation%22%5D;while(alive)+%7B+keep_coding();+%7D)](https://git.io/typing-svg)
 
@@ -23,7 +23,7 @@
 
 | 👨‍💻 **Desenvolvedor** | 📊 **Estatísticas** | 🛠️ **Habilidades** | 🎯 **Projetos** |
 |:---:|:---:|:---:|:---:|
-| `Level 30` | `XP: ∞` | `Multi-class` | `Side Quests: ∞` |
+| Level 30 | XP: ∞ | Multi-class | Side Quests: ∞ |
 
 </div>
 
@@ -79,10 +79,10 @@ const lucasViana = {
 
 ## ⚡ **Power Level Analytics**
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasvlviana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="385em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvlviana&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasvlviana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvlviana&theme=radical&hide_border=true"/>
 
-<img width="800em" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasvlviana&bg_color=0d1117&color=f9826c&line=f9826c&point=24292e&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasvlviana&bg_color=0d1117&color=f9826c&line=f9826c&point=24292e&area=true&hide_border=true"/>
 
 </div>
 
@@ -115,25 +115,21 @@ const lucasViana = {
 
 ## 🏆 **Achievement Showcase**
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucasvlviana&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucasvlviana&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
 </div>
 
 ---
 
-## 📈 **Contribution Matrix (Heatmap)**
+## 📈 **Contribution Graph**
 
 <div align="center">
 
-```
-  Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2024
-  ▓▓▓░░▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 2025
-  
-  Legend: ░ No commits  ▓ Heavy coding sessions
-```
-
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasvlviana/lucasvlviana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasvlviana/lucasvlviana/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasvlviana/lucasvlviana/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -145,9 +141,9 @@ const lucasViana = {
 
 | **Combo** | **Description** | **Cooldown** |
 |-----------|-----------------|--------------|
-| `React + Node.js` | Full Stack Devastation | ⚡ Instant |
-| `JavaScript + Creativity` | Problem Solving Ultimate | 🔥 Always Ready |
-| `Clean Code + Best Practices` | Maintainability Shield | 🛡️ Permanent Buff |
+| React + Node.js | Full Stack Devastation | ⚡ Instant |
+| JavaScript + Creativity | Problem Solving Ultimate | 🔥 Always Ready |
+| Clean Code + Best Practices | Maintainability Shield | 🛡️ Permanent Buff |
 
 </div>
 
@@ -208,7 +204,7 @@ const curiosidades = {
 > [4] All of the above
 ```
 
-**`Press [STAR] to continue...`** ⭐
+**Press [STAR] to continue...** ⭐
 
 ---
 
@@ -217,7 +213,3 @@ const curiosidades = {
 *"In a world full of code, be the one who makes it work beautifully"* ✨
 
 </div>
-
-```
-EOF
-```
